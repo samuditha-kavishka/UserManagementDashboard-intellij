@@ -34,6 +34,18 @@ A simple **User Management Dashboard** built with Java and HTML/CSS in IntelliJ 
 - (Optional) Web server like Apache Tomcat if using servlets
 - Git
 
+  ---
+
+## License
+This project is **open source** and free to use for learning purposes.
+
+---
+
+## Author
+**Samuditha Kavishka**
+
+---
+
 ### Installation
 
 ```bash
@@ -42,3 +54,5 @@ git clone https://github.com/samuditha-kavishka/UserManagementDashboard-intellij
 
 # Navigate to project folder
 cd UserManagementDashboard-intellij
+
+
